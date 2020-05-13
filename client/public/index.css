@@ -1,0 +1,47 @@
+h1{
+    color:red;
+}
+
+.intro{
+    text-align: center;
+    background-color: #ffc38b;
+    padding: 50px;
+}
+
+.content-table{
+    margin: 100px;
+}
+
+.addButton-align{
+    text-align: center;
+    padding: 30px;
+}
+
+.newRow-fields{
+    padding: 20px;
+}
+.newRow-form{
+    background-color: #fff3cd;
+}
+
+.row-edit{
+   
+    text-align: center;
+}
+
+.column-edit{
+    padding: 20px;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 300px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+.login-container{
+    padding: 100px;
+}
